@@ -10,6 +10,7 @@ let islooged=true
 console.log(typeof "niraj")
 console.log(typeof age)
 console.log(typeof 21)
-
+console.log(typeof null);
+console.log(typeof undefined);
 // we write bigint for big numbers 
 // in simple int we can write at most number 2 to power 53
